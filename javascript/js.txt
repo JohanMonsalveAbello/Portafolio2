@@ -1,0 +1,19 @@
+ case sensitive (sencibel a matusculas y minusculas)
+variable(un espacio guardado en memoria)
+
+string cadena de texto 
+boleano 0 o 1 (true o false)
+variables 
+var, alcanze global osea todo
+
+ let, limita el alcanze
+
+ const: siempre es el mismo, no se puede definir como otro variable 
+
+null : no tiene valor pero esta definida 
+
+nan: no es un numero
+
+operadores 
+aritmeticos valores numericos 
+** exponente 
